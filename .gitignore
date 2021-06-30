@@ -1,5 +1,6 @@
 readme.txt
 package.json
+package-lock.json
 gulpfile.js
 desire.fig
 app
